@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validador Cartões", "Validador Cartões\Validador Cartões.csproj", "{8146DC3A-B4A6-4A06-8764-75EF2E158719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8146DC3A-B4A6-4A06-8764-75EF2E158719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8146DC3A-B4A6-4A06-8764-75EF2E158719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8146DC3A-B4A6-4A06-8764-75EF2E158719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8146DC3A-B4A6-4A06-8764-75EF2E158719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
